@@ -1,6 +1,5 @@
 library("tidyverse")
 library("edbuildr")
-library("readxl")
 
 ### import school distirctr table
 sd18 <- masterpull(data_type="geo") %>% 

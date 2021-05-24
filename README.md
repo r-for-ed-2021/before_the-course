@@ -1,8 +1,8 @@
-# Welcome to R for Education Research!
+# R for Education Research, Summer 2021
 
-#### [r-for-ed-2021.github.io](https://r-for-ed-2021.github.io./) will be your primary source for class lectures, instructions, and sample data.
+This repo contains scripts for testing your R installation before the class
 
-After you install R and RStudio please run the 2 scripts in the tests folder.  These 2 scripts:
+After you install R and RStudio, run the 2 scripts in the tests folder:
 
 * 1_install_packages.R
 * 2_test_installation.R 
